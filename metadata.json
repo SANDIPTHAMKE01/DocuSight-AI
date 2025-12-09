@@ -1,0 +1,5 @@
+{
+  "name": "DocuSight AI",
+  "description": "Intelligent document analysis, form extraction, and validation using Gemini 3 Pro multimodal reasoning.",
+  "requestFramePermissions": []
+}
